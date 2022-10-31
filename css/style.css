@@ -632,6 +632,13 @@ footer {
     fill:#0093A1
 }
 
+.footer__form-btn:hover {
+    background-color: #827f7e;
+    color: #ffff;
+    transition: all .3s;
+}
+
+
 @media (max-width: 1230px) {
     .header__decore__text--two {
         left: 0;
